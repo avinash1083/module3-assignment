@@ -1,4 +1,7 @@
 /* Base Styles */
+h1.text-center {
+    color: grey;
+}
 
 * {
 	box-sizing: border-box;
@@ -102,7 +105,7 @@ section {
   font-size: 2em;
   border: 0 0 10px 10px;
   color: #FFFFFF;
-  font-family: -webkit-pictograph;
+      font-family: -webkit-pictograph;
 }
 
 #header-nav {
